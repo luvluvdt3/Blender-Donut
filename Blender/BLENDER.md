@@ -7,7 +7,8 @@
   Open action ![Alt text](image.png)
 - Tab
   Switch between Object mode <-> Edit mode
-
+- /
+  See only selected sections
 # Tips
 - No need for high resolution:
   - Make it difficult to edit
@@ -55,3 +56,25 @@
 - Make the drip by choosing 2 points + `E`
   - ![Alt text](image-17.png)
   - ![Alt text](image-16.png)
+
+- Add another modifier `Shrinkwrap` to snap perfectly the icing `remember to put it on top of every modifier`
+  ![Alt text](image-19.png)
+  ![Alt text](image-18.png) 
+
+- Make the drop of icing fatter:  
+  - 1. `Sculpt Mode` with `Inflate` mode
+  - 2. Just Left click to apply or Shift + Left Click to do the opposite
+  - P/S: The radius should be big enough or wont see it change
+  - 3. Apply subdivision modifier with 2 - 2 so that there is enough infos to sculpt
+  - 4. Use the `Grab` mode to edit drop details : Make the beginning of the drop thinner, make the icing look more real with gravity
+  - 5. To make the upper part kinda fatter: 
+    - Use  `Mask` with `Brush-> Front Face Only` on to darken the parts that wont be affected by
+      ![Alt text](image-20.png)
+    - Hit `Ctrl + I` to invert the black mark
+      ![Alt text](image-21.png)
+    - Choose `Mesh Filter` with `Inflate` mode, Strength around 0.1, drag a bit out.
+      ![Alt text](image-22.png)
+    - Smooth it out with `Smooth Mask`
+      ![Alt text](image-23.png)
+    - Smooth again using `Smooth` sculpt
+-  
