@@ -1,6 +1,8 @@
 # Useful link
 - Keys Cheat Sheet
   http://www.blender.hu/tutor/kdoc/Blender_Cheat_Sheet.
+- Textures
+  https://www.poliigon.com/textures 
 
 # Keys
 - F9
@@ -9,6 +11,32 @@
   Switch between Object mode <-> Edit mode
 - /
   See only selected sections
+
+# Add-ons
+- https://andreasaust.gumroad.com/l/drop_it
+- https://blendermarket.com/products/sanctus-library-addon---procedural-shaders-collection-for-blender
+- https://blendermarket.com/products/realtime-materials-for-blender
+- https://blendermarket.com/products/the-plant-library
+- https://www.graswald3d.com/gscatter
+- https://github.com/shteeve3d/blender-wiggle-2/releases/tag/v2.1.0
+- https://gitlab.com/marcopavanello/real-sky
+- https://blendermarket.com/products/alt-tab-water
+- https://ninodefoq.gumroad.com/l/mossify?layout=profile
+- https://blendermarket.com/products/blenrig
+- https://n0451.gumroad.com/l/PgyXc
+- https://github.com/sketchfab/blender-plugin
+## Install Add-Ons
+- #1
+  ![Alt text](image-28.png)
+- #2
+  ![Alt text](image-29.png)
+- #3
+  ![Alt text](image-30.png)
+- #4 Refresh, search for it then enable it
+  ![Alt text](image-31.png)
+- #5 Enjoy ~ Right click object -> drop it
+  ![Alt text](image-32.png)
+
 # Tips
 - No need for high resolution:
   - Make it difficult to edit
@@ -77,4 +105,29 @@
     - Smooth it out with `Smooth Mask`
       ![Alt text](image-23.png)
     - Smooth again using `Smooth` sculpt
--  
+  
+- Add new material + color
+  ![Alt text](image-24.png) 
+
+- Make the donut the icing's paaent by hold `Shift` then click icinf first then the donut then `Ctrl+P` -> `Object (Keep Transform)` ---> When we move our donut, the icing will move together (remember to turn off Snap though lol)
+
+- Shading
+  - Shift+A to add Image Texture 
+  - Remember to choose `Non-color` as `Color Space` for everything other than the original pic
+  - ![Alt text](image-26.png)
+  - Can do manually like that or add add-on
+
+- Find Auto-Saves UwU
+  ![Alt text](image-27.png)
+
+- Change the colors in a mesh:
+  - Click on `Texture Paint` mode
+  - Go to isolate mode with `/` for Donut
+  - Change the Base Color to `Image Texture`
+  ![Alt text](image-33.png) 
+  - New Image -> Choose the base color and name it
+  ![Alt text](image-34.png)
+  - Choose the newly created image in the Texture Paint Window
+  ![Alt text](image-35.png)
+  - Draw other colors then save the image anywhere 
+    ![Alt text](image-36.png)
