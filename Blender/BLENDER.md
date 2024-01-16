@@ -131,3 +131,43 @@
   ![Alt text](image-35.png)
   - Draw other colors then save the image anywhere 
     ![Alt text](image-36.png)
+
+- Add prinkles -> Use Geometry Nodes
+  - Click on `New` to begin 
+    ![Alt text](image-37.png)
+  - `Shift + A` to add stuff as usual
+    ![Alt text](image-38.png) 
+    `Distributed Point` is to creating point
+    `Join Geometry` is to keep the original icing, or else it would be replaced with the points
+  - Pin the Geometry Node of icing, then drag&drop a newly created sphere in (aka the `Object Info`)
+  - ![Alt text](image-40.png)
+    ![Alt text](image-39.png) 
+    ![Alt text](image-41.png)
+  - To avoid point colappsing each other -> use `Poisson Disk` option for `Distribute Points`
+    ![Alt text](image-42.png)
+  - To avoid having points also on the bottom -> switch to `Weighted Paint` mode
+    ![Alt text](image-43.png)
+    - 1. Add new `Vertex Group` then add a `Named Attribute (attribute)` with it in the `Density` of `Distribute Points`
+      ![Alt text](image-44.png)
+    - 2. Use `Weighted Paint` 
+      `Click` to paint
+      `Alt + Click` to delete paint
+      ![Alt text](image-54.png)
+      ![Alt text](image-55.png)
+    - 3. Multiply the value of density (or else we would see no effect of Weighted Paint)
+      ![Alt text](image-52.png)
+    - 4. Apply Scale `Ctrl + A` then choose Scale
+      ![Alt text](image-53.png)
+  - To make the diferent density if doublicate the donuts
+    - 1. Drag&Drop `Density Max` onto `Group Input` -> The field would appear in `Modify` tab on every duplicated donuts
+      ![Alt text](image-48.png)
+    - 2. Modify its value each time
+      ![Alt text](image-49.png)
+      ![Alt text](image-50.png)
+- We can define unit of mesurement and resize the donuts to the correct size
+  ![Alt text](image-51.png)
+  Then choose scaled ones then `Shift + A` -> choose Scale to apply 
+
+
+
+      
