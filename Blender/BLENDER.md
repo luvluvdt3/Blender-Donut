@@ -205,4 +205,42 @@
     ![Alt text](image-65.png)
   - To randomize the rotation of the sprinkles while keeping them reasonable
     ![Alt text](image-67.png)
-  
+
+- Make sprinkles colorful and randomized colors 
+  - Apply the same material for many objects
+    - Create a new material within a sprinkle
+    - Then `Shift` choosing every sprinkles with the target spinkles last with yellow outline
+    - Then `Ctrl + L` choose
+      ![Alt text](image-68.png) 
+  - Go to Shadow
+    - Create `Shift + A` a `Object info` and connect it with `Base Color`
+      ![Alt text](image-69.png) 
+    - Adding the `Color Ramp` in between to get randomized colors
+      ![Alt text](image-70.png)
+    - Make certain colors have metalic:
+      - `Ctrl + Shift + D` to doublicate but still keep the connection of Color Ramp
+      - For the one with metalic property, make it white, the normal ones black
+       ![Alt text](image-71.png)
+       ![Alt text](image-72.png) 
+       ![Alt text](image-73.png)
+      - `Ctrl+Shift+D` then connect to Rougness for some shinniness
+      ![Alt text](image-74.png)
+
+- Rendering:
+  - Click the icon ![Alt text](image-75.png) to see the camera viewport
+  - ` Shift + ` ` to move the camera with WASD
+  - Improve rendering quality
+    - ![Alt text](image-76.png)
+    - ![Alt text](image-77.png) 
+    - Choose `Cycle` for better quality but longer render
+    ![Alt text](image-78.png)
+  - Switch to GPU for faster render
+    ![Alt text](image-79.png)
+  - Also with `Denoise` checked
+    ![Alt text](image-80.png)
+
+- Improve the material of the icing for better feeling? idk
+![Alt text](image-81.png)
+
+- Also with the icing
+  ![Alt text](image-82.png)
