@@ -230,14 +230,13 @@
   - Click the icon ![Alt text](image-75.png) to see the camera viewport
   - ` Shift + ` ` to move the camera with WASD
   - Improve rendering quality
-    - ![Alt text](image-76.png)
     - ![Alt text](image-77.png) 
-    - Choose `Cycle` for better quality but longer render
-    ![Alt text](image-78.png)
-  - Switch to GPU for faster render
-    ![Alt text](image-79.png)
-  - Also with `Denoise` checked
-    ![Alt text](image-80.png)
+    - ![Alt text](image-78.png)
+    - Switch to GPU for faster render & Choose `Cycle` for better quality but longer render
+      ![Alt text](image-83.png)
+      ![Alt text](image-84.png)
+    - Also with `Denoise` checked
+      ![Alt text](image-80.png)
 
 - Improve the material of the icing for better feeling? idk
 ![Alt text](image-81.png)
