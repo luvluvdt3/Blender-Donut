@@ -168,6 +168,41 @@
   ![Alt text](image-51.png)
   Then choose scaled ones then `Shift + A` -> choose Scale to apply 
 
-
-
-      
+- Adding long sprinkles
+  - `Shift + A` add cylinder 
+  - ![Alt text](image-62.png)
+  - To make the rounded edge:
+    - 1. Go to `Edit mode` then choose the top and bottom rounds
+    - 2. `Ctrl+B` then stretch out
+    - 3. Add more layers to that when scroll up 
+     ![Alt text](image-56.png)
+  - Make other spinkles:
+    - 1. `Shift D` to doublicate
+    - 2. Choose the top part `G` then `Z` to lengthen it up (remember to turn off the Proportional Editing)
+    ![Alt text](image-57.png)  
+  - Make spinkles bend
+    - 1. Edit mode then `Ctrl + R` to create the inner circle then scroll to create some more
+      ![Alt text](image-58.png)
+    - 2. Then add modifier `Simple Deform`
+      ![Alt text](image-59.png)
+      ![Alt text](image-60.png)
+      - If doesnt work
+        - `Ctrl + A` -> All transforms
+        - Right click -> Set Origin -> Origin to Geometry 
+    - 3. Apply it
+- Apply different sprinkles
+  - Doublicate the donut
+  - Click on the button `2` there so that the variables are separated for each donut
+    ![Alt text](image-61.png) 
+  - Drag&Drop the collection of different spinkles into Geometry Node and check the 3 checkboxes
+    ![Alt text](image-63.png)
+    ![Alt text](image-64.png)
+  - Also connect the Rotation of the 2 greens class so that the sprinkles can rotates based on the object's surface
+  - Adding Rotate Euler
+    ![Alt text](image-66.png)
+  - Also rotates the prinkles to 90 degree
+  - To ajust size of the spinkles:
+    ![Alt text](image-65.png)
+  - To randomize the rotation of the sprinkles while keeping them reasonable
+    ![Alt text](image-67.png)
+  
