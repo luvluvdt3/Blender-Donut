@@ -243,3 +243,32 @@
 
 - Also with the icing
   ![Alt text](image-82.png)
+
+- Adding a plate :
+  - Can split screen with
+    ![Alt text](image-85.png) 
+    ![Alt text](image-86.png)
+  - `Shift + A` create a new `Round`
+  - Then with `E` and `S` to create each layer together with Proportional Editing
+  - To create the face surface at the bottom, choose the bottom round and hit `F`
+    ![Alt text](image-87.png)
+    ![Alt text](image-88.png)
+  - Switch to `Edge` mode to select the round edges without choosing also the connection parts with `Alt + Shift`
+    ![Alt text](image-89.png)
+  - Then `Ctrl + B`
+    ![Alt text](image-90.png)
+  - Thicken it with `Solidify` modifier then apply
+    ![Alt text](image-91.png)
+  - Then choose the 2 outer edges
+    ![Alt text](image-92.png)
+  - `Ctrl + B`then `C`to avoid overlap
+    ![Alt text](image-93.png)
+  - `A` to choose everything then
+    ![Alt text](image-94.png)
+- Can make the camera smaller too edit easier
+  ![Alt text](image-95.png)
+
+- Different icings:
+  - Rename each then click the number next to each to separate from others
+  ![Alt text](image-96.png)
+  
