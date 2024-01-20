@@ -25,6 +25,9 @@
 - https://blendermarket.com/products/blenrig
 - https://n0451.gumroad.com/l/PgyXc
 - https://github.com/sketchfab/blender-plugin
+- https://www.vfxmed.com/2023/07/blender-3-2-cloudscapes-v2-pro-2023-update-crack-download/
+- https://www.vfxmed.com/2023/06/blender-2-7-auto-rig-pro-v-3-68-24-free-2023-download/
+  
 ## Install Add-Ons
 - #1
   ![Alt text](image-28.png)
@@ -271,4 +274,47 @@
 - Different icings:
   - Rename each then click the number next to each to separate from others
   ![Alt text](image-96.png)
+  ![Alt text](image-97.png)
+
+- Adding skylight
+  - Choose `Sky Texture` as color is `World` section
+    ![Alt text](image-98.png)
+  - Can modify the light explosure in `Render` section
+    ![Alt text](image-99.png) 
+  - Can also modify the sun's time and rotation
+    ![Alt text](image-100.png)
+- Create the counter
+  - Create a new cube and go to   `Wildframe` mode
+  -  Then `G` then `B`
+  -  Choose the corner
+    ![Alt text](image-101.png)
+  - Then drag it to the corner that we want it to be aligned wiht
+    ![Alt text](image-102.png)
+  - Got to `Edit` mode with `Face` mode
+  - Choose a face then hit `G` then `B` to make the cube perfectly cover everything
+  ![Alt text](image-103.png)
+
+- Make window
+  - Choose a face
+  - Hit `I` the drag it in a bit
+  ![Alt text](image-104.png) 
+  - Then delate that small part
+    ![Alt text](image-105.png)
+  - Rotate the whole stuff well for the best sun lighting
+    ![Alt text](image-106.png)
   
+- Walls
+  - Create materials
+  - Choose the wall behind then `Assign` it to the black-colored material  
+    ![Alt text](image-107.png)
+  
+- Download Models
+  - Download & unzip it
+    ![Alt text](image-108.png)
+  - Click `File->Append` (remember to be in Object Mode, or else it wont work)
+    ![Alt text](image-109.png)   
+  - ![Alt text](image-110.png)
+  - Tadahh 
+    ![Alt text](image-111.png)
+  - Add also Poligon's addon stuff
+    ![Alt text](image-112.png)
