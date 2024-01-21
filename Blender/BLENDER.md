@@ -344,3 +344,30 @@
     ![Alt text](image-123.png)
   - If wanna render without `Compose`'s effects -> Uncheck `Compositing`
     ![Alt text](image-125.png)
+
+- Camera animation
+  - Add an empty axe
+    ![Alt text](image-126.png)
+  - Choose `Sphere` as display
+    ![Alt text](image-127.png)
+  - `Ctrl + P` set sphere as parent
+    ![Alt text](image-128.png)
+  - Click on end frame -> Choose the empty sphere -> Hit `I` - Rotation
+    ![Alt text](image-129.png)
+  - So the last frame would be our original Render
+  - Go to the frist frame and edit the rotation and location
+    ![Alt text](image-131.png)
+    ![Alt text](image-130.png)
+  - Go to `Animation` mode and choose `Graph Editor`
+    ![Alt text](image-132.png)
+  - We are gonna edit mostly X & Y Rotation
+    ![Alt text](image-133.png)
+    ![Alt text](image-134.png)
+    With `R` and `G` to these black points
+  - Fast at the start and slower a the ending 
+    ![Alt text](image-135.png)
+  - To zoom in at the start -> Scale down the Sphere
+    - `I` then
+      ![Alt text](image-136.png)
+    - Then `S` make it smaller
+      ![Alt text](image-137.png)
