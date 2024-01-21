@@ -305,8 +305,9 @@
   
 - Walls
   - Create materials
-  - Choose the wall behind then `Assign` it to the black-colored material  
+  - Choose the wall behind then `Assign` it to the black-colored material to control lighting
     ![Alt text](image-107.png)
+  - But can also add `Light->Aria` instead
   
 - Download Models
   - Download & unzip it
@@ -318,3 +319,28 @@
     ![Alt text](image-111.png)
   - Add also Poligon's addon stuff
     ![Alt text](image-112.png)
+
+- Compose
+  - Check `Use Node`
+    ![Alt text](image-113.png)
+  - Hit `F12` or `Render` button to render
+  - Then `Ctrl + Shift + click` on `Render Layer` to create `Viewer` node + image
+    ![Alt text](image-114.png)
+  - Can modify colors with `Shift + A` -> Color -> Ajust -> Color Balance
+    ![Alt text](image-115.png)
+  - Can also do it here (more recommended)
+    ![Alt text](image-116.png)
+  - Adding shiny glares
+    - ![Alt text](image-117.png)
+    - ![Alt text](image-118.png)
+  - Make the glare foggier
+    - ![Alt text](image-120.png) 
+    - ![Alt text](image-119.png) 
+  -  Edit the `Fac`, which control the second Image aka the second Glare
+    ![Alt text](image-121.png) 
+  - Final step (doesnt change any effect but kinda avoid errors in the future?)
+    ![Alt text](image-124.png)
+  - Apply it to `Always`
+    ![Alt text](image-123.png)
+  - If wanna render without `Compose`'s effects -> Uncheck `Compositing`
+    ![Alt text](image-125.png)
