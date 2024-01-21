@@ -371,3 +371,17 @@
       ![Alt text](image-136.png)
     - Then `S` make it smaller
       ![Alt text](image-137.png)
+
+- Rendering
+  - Kinda put it to 400 to make rendering faster
+    ![Alt text](image-138.png)
+    ![Alt text](image-139.png)
+  - Hide sprinkles from camera
+    ![Alt text](image-140.png)
+  - Set camera's focus
+    ![Alt text](image-141.png)
+  - Active Motion Blur
+    ![Alt text](image-142.png)
+  - ![Alt text](image-143.png)
+  - Now we wait
+    ![Alt text](image-144.png)
