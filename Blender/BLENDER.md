@@ -385,3 +385,24 @@
   - ![Alt text](image-143.png)
   - Now we wait
     ![Alt text](image-144.png)
+
+- Export images into video
+  - ![Alt text](image-145.png) 
+  - `Shift + A`
+    ![Alt text](image-146.png)
+  - ![Alt text](image-147.png)
+  - Fix `Frame Rate` to match
+  ![Alt text](image-148.png)
+  - Hold the `G` to move to the end frame -> having a still moment at the end
+  ![Alt text](image-149.png)
+  - Add fade out effect
+    ![Alt text](image-150.png)
+    - Click on it then `Shift + A` -> `Fade In`
+      ![Alt text](image-151.png)
+      ![Alt text](image-152.png)
+
+  - Set up 
+    ![Alt text](image-153.png)
+  
+  - Renderrr
+    ![Alt text](image-154.png)
