@@ -406,3 +406,8 @@
   
   - Renderrr
     ![Alt text](image-154.png)
+
+- Multi cameras
+  - Choose the camera and the frame
+  - Then `Add Marker` then `Bind Camera to Markers`
+  ![Alt text](image-155.png) 
