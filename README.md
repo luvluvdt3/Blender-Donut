@@ -1,5 +1,9 @@
-<video src="https://github.com/luvluvdt3/Blender-Donut/blob/42e821461f0b8d9fcce49f0eaffb87bd78264c68/Donuttt/video/0001-0250.mp4"/>
-<video src="https://github.com/luvluvdt3/Blender-Donut/blob/42e821461f0b8d9fcce49f0eaffb87bd78264c68/0001-0950.mp4"/>
+# Demo
+## Donut
+https://github.com/luvluvdt3/Blender-Donut/assets/77581509/24cb83e0-0e88-46c2-a9e7-74c9313e4d21
+## Personal project (Tu.blend)
+https://github.com/luvluvdt3/Blender-Donut/assets/77581509/8503898e-b7e0-42cb-b06b-8073598c92a9
+
 # Useful link
 - Keys Cheat Sheet
   http://www.blender.hu/tutor/kdoc/Blender_Cheat_Sheet.
